@@ -22,7 +22,7 @@ This script automates the process of creating user accounts on a Linux system. I
 The employee file should be a text file where each line represents a user and their groups. The format for each line is:
 
 ```
-username;group1,group2,group3
+username; group1,group2,group3
 ```
 
 - `username`: The name of the user to be created.
