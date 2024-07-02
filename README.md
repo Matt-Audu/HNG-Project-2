@@ -170,11 +170,6 @@ log "User creation process completed."
 - Log File: `/var/log/user_management.log` records the script's activity.
 - Password File: `/var/secure/user_passwords.txt` stores the generated passwords securely, with permissions set to allow access only by the owner.
 
-### Conclusion
-
-This script streamlines the user creation process on a Linux system by automating the setup of user accounts, groups, and passwords, while ensuring security and proper logging.
-
-
 
 
 
